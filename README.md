@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nasim Khalili and I'm a Python developer !</p>
+<p align="left">My name is Nasim Khalili and I'm a Data scientist & Ml Programmer !</p>
 
 ###
 
