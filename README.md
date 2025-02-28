@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nasim Khalili and I'm a Data scientist & Ml Programmer !</p>
+<p align="left">My name is Nasim Khalili and I'm a  Ml Programmer & Data scientist  !</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the dawn of my coding journey!<br>📚 I'm currently learning advanced algorithms in Python<br>🎯 Goal:to contribute meaningfully to open-source projects and empower the next generation of developers.</p>
+<p align="left">✨ Creating bugs since the dawn of my coding journey!<br>📚 I'm currently learning advanced algorithms in Ml<br>🎯 Goal:to contribute meaningfully to open-source projects and empower the next generation of developers.</p>
 
 ###
 
