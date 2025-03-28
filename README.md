@@ -1,5 +1,5 @@
 ### **🚀 About Me** 
-**Hi! I'm [Nasim Khalili]**, a passionate **Python Backend Developer** with a love for building efficient APIs and scalable systems. 
+**Hi! I'm Nasim Khalili**, a passionate **Python Backend Developer** with a love for building efficient APIs and scalable systems. 
 My focus is on **FastAPI, Django, and PostgreSQL**, but I’m always exploring new tools to solve real-world problems. 
 <br>
 
