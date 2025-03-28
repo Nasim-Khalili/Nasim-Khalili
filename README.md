@@ -4,7 +4,7 @@ My focus is on **FastAPI, Django, and PostgreSQL**, but I’m always exploring n
 <br>
 
 
-###**🛠️ Tech Stack** 
+### **🛠️ Tech Stack** 
 
 **Backend**: Python, FastAPI, Django, RESTful APIs, GraphQL (learning) -
 **Databases**: PostgreSQL, MongoDB, SQLAlchemy -
